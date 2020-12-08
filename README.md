@@ -1,2 +1,2 @@
 # matching_java
-make a matching-aplication
+make a matching-application
